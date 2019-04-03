@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "\"Check your tictactoe results\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgovnor/tictactoe-checker.git"
+  },
+  "keywords": [
+    "tictactoe"
+  ],
+  "author": "Ezekiel jude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgovnor/tictactoe-checker/issues"
+  },
+  "homepage": "https://github.com/dgovnor/tictactoe-checker#readme"
+}
